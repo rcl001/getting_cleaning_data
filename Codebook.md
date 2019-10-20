@@ -1,5 +1,5 @@
-#Getting and Cleaning Data Programming Assignment
-#Output Data Codebook
+# Getting and Cleaning Data Programming Assignment
+# Output Data Codebook
 
 The assignment output data is a table of mean values of a subset of the variables from the main UCI HAR test and train data sets combined, listed by Subject ID and Activity type.
 
