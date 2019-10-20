@@ -8,3 +8,5 @@ The 'UCI HAR Dataset' folder should be in the working directory where the run_an
 The data file can be read with this R command:
 
 > data_Q5 <- read.table("data_Q5.txt", header=TRUE)
+
+The file Codebook.md describes the data in the data_Q5 output file.
